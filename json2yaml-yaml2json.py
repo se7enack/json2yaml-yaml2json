@@ -5,16 +5,6 @@ import json
 import sys
 import os
 
-"""
-    ### Converts JSON to YAML as well as YAML to JSON ###
-Usage:
-    ./convert-json-and-yaml.py file_I_want_to_be_yaml.json
-or:
-    ./convert-json-and-yaml.py file_I_want_to_be_json.yaml
-or multiples all at once:
-    ./convert-json-and-yaml.py file_I_want_to_be_yaml.json file_I_want_to_be_json.yaml
-"""
-
 
 def jsonfile():
     with open(x, "r") as jsonFile:
