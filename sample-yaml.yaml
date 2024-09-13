@@ -1,0 +1,15 @@
+billTo:
+  address: 6174 Kaprekar Ave
+  city: Mill Valley
+  name: Douglas Adams
+  state: CA
+  zip: '94941'
+name: HIGH INTENSITY DISCHARGE HEADLAMP
+price: 2357.11
+shipTo:
+  address: 1719 Prime Str
+  city: San Francisco
+  name: Tom Baker
+  state: CA
+  zip: '94109'
+sku: 6005906-00-C
